@@ -1,6 +1,3 @@
-# data-analytics-projects
-SQL and Excel business data analytics projects demonstrating data cleaning, analysis, and visualization
-
 # Lane Haworth — Data Analytics Portfolio
 
 Portfolio of business data analytics projects demonstrating SQL querying, Excel analysis, data cleaning, and visualization using real world business datasets.
